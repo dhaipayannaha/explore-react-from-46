@@ -15,7 +15,7 @@ function App() {
     <>
       
       <h1>Explore react form</h1>
-      {/* <SimpleForm></SimpleForm> */}
+      <SimpleForm></SimpleForm>
       {/* <FormAction></FormAction> */}
       {/* <UncontrolledField></UncontrolledField> */}
       {/* <ControlledField></ControlledField> */}
@@ -23,7 +23,7 @@ function App() {
       {/* <HookForm></HookForm> */}
 
       {/* <ProductManagement></ProductManagement> */}
-      <FamillyTree></FamillyTree>
+      {/* <FamillyTree></FamillyTree> */}
       
     </>
   )
